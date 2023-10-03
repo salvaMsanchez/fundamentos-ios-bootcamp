@@ -62,8 +62,6 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-*.xcodeproj
-
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
